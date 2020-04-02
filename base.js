@@ -266,8 +266,8 @@ console.clear()
     switch (answer) {
 
         case n[0]:
-            cacheWipe()
-            console.log("Task Complete")
+            //cacheWipe()
+            //console.log("Task Complete")
             //sleep(3000)
             optionsMenu()
 
